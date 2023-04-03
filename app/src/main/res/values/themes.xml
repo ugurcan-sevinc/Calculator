@@ -1,0 +1,29 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Calculator" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/BG_outputAreaLight</item>
+        <!-- Customize your theme here. -->
+
+        <item name="BG_outerComponent" format="color">@color/BG_outerComponentLight</item>
+        <item name="BG_innerComponent" format="color">@color/BG_innerComponentLight</item>
+        <item name="BG_calcArea" format="color">@color/BG_calcAreaLight</item>
+        <item name="BG_equalButton" format="color">@color/BG_equalButtonLight</item>
+        <item name="BG_outputArea" format="color">@color/BG_outputAreaLight</item>
+        <item name="TEXT_outerButton" format="color">@color/TEXT_outerButtonLight</item>
+        <item name="TEXT_innerButton" format="color">@color/TEXT_innerButtonLight</item>
+        <item name="TEXT_clearButton" format="color">@color/TEXT_clearButtonLight</item>
+        <item name="TEXT_equalButton" format="color">@color/TEXT_equalButtonLight</item>
+        <item name="TEXT_output" format="color">@color/TEXT_outputLight</item>
+        <item name="TEXT_operation" format="color">@color/TEXT_operationLight</item>
+
+    </style>
+</resources>

@@ -1,0 +1,28 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Calculator" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_200</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/BG_outputAreaDark</item>
+        <!-- Customize your theme here. -->
+
+        <item name="BG_outerComponent" format="color">@color/BG_outerComponentDark</item>
+        <item name="BG_innerComponent" format="color">@color/BG_innerComponentDark</item>
+        <item name="BG_calcArea" format="color">@color/BG_calcAreaDark</item>
+        <item name="BG_equalButton" format="color">@color/BG_equalButtonDark</item>
+        <item name="BG_outputArea" format="color">@color/BG_outputAreaDark</item>
+        <item name="TEXT_outerButton" format="color">@color/TEXT_outerButtonDark</item>
+        <item name="TEXT_innerButton" format="color">@color/TEXT_innerButtonDark</item>
+        <item name="TEXT_clearButton" format="color">@color/TEXT_clearButtonDark</item>
+        <item name="TEXT_equalButton" format="color">@color/TEXT_equalButtonDark</item>
+        <item name="TEXT_output" format="color">@color/TEXT_outputDark</item>
+        <item name="TEXT_operation" format="color">@color/TEXT_operationDark</item>
+    </style>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="BG_outerComponent" format="color"/>
+    <attr name="BG_innerComponent" format="color"/>
+    <attr name="BG_calcArea" format="color"/>
+    <attr name="BG_equalButton" format="color"/>
+    <attr name="BG_outputArea" format="color"/>
+    <attr name="TEXT_innerButton" format="color"/>
+    <attr name="TEXT_operation" format="color"/>
+    <attr name="TEXT_outerButton" format="color"/>
+    <attr name="TEXT_clearButton" format="color"/>
+    <attr name="TEXT_equalButton" format="color"/>
+    <attr name="TEXT_output" format="color"/>
+
+</resources>
